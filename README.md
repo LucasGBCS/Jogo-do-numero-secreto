@@ -4,7 +4,7 @@
 Este projeto, desenvolvido durante o curso de Lógica de Programação, tem como objetivo aplicar os conceitos aprendidos na prática, criando um jogo simples e divertido.
 
 **Descrição:**
-O jogo "Número Secreto" desafia o jogador a adivinhar um número inteiro aleatório entre 1 e 100. A cada tentativa, o jogador recebe dicas indicando se o número escolhido é maior ou menor que o número secreto.
+O jogo "Número Secreto" desafia o jogador a adivinhar um número inteiro aleatório entre 1 e 10. A cada tentativa, o jogador recebe dicas indicando se o número escolhido é maior ou menor que o número secreto.
 
 **Lógica do Jogo:**
 * **Geração do número secreto:** Um número aleatório é gerado no início do jogo utilizando a função `Math.random()` do JavaScript.
